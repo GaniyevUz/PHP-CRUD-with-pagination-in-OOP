@@ -106,12 +106,12 @@ print_r($fetch);
 ### Screenshots
 <p align="center">
 
-<img  width="25%" height="25%" src="./ss/create.jpg">
+<img  width="25%" height="25%" src="./ss/create.png">
 
-<img  width="25%" height="25%" src="./ss/read.jpg">
+<img  width="25%" height="25%" src="./ss/read.png">
 
-<img  width="25%" height="25%" src="./ss/update.jpg">
+<img  width="25%" height="25%" src="./ss/update.png">
 
-<img  width="25%" height="25%" src="./ss/delete.jpg">
+<img  width="25%" height="25%" src="./ss/delete.png">
 
-<img  width="25%" height="25%" src="./ss/pagination.jpg">
+<img  width="25%" height="25%" src="./ss/pagination.png">
